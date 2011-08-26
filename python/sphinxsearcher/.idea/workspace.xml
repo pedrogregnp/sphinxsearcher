@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sphinxapi.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="sphinxapi.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sphinxapi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="16" selection-start="1176" selection-end="1192" vertical-scroll-proportion="0.0">
+            <state line="19" column="20" selection-start="592" selection-end="592" vertical-scroll-proportion="0.2488189">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="12" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.77458036">
+            <state line="46" column="21" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="test2.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+            <state line="7" column="19" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,6 +61,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sphinxapi.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
       </list>
     </option>
   </component>
@@ -90,8 +92,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,19 +280,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sphinxapi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="16" selection-start="1176" selection-end="1192" vertical-scroll-proportion="0.0">
+        <state line="7" column="19" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.77458036">
+        <state line="46" column="21" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sphinxapi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="592" selection-end="592" vertical-scroll-proportion="0.2488189">
           <folding />
         </state>
       </provider>
